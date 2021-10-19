@@ -1,6 +1,9 @@
 # DA_Challenges
-Hands on Practices 
+This repository contains the submissions for the challenge sets completed for Data Science related topics
 
 
-# Classification Callenges
-build KNN from scratch 
+## Classification Callenges
+- 1. Build KNN from scratch 
+
+
+
