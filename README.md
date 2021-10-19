@@ -3,7 +3,7 @@ This repository contains the submissions for the challenge sets completed for Da
 
 
 ## Classification Callenges
-- 1. Build KNN from scratch 
+- Build KNN from scratch 
 
 
 
